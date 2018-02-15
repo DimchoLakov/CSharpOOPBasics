@@ -1,6 +1,4 @@
-﻿using System;
-
-public class BankAccount
+﻿public class BankAccount
 {
     private int id;
 
