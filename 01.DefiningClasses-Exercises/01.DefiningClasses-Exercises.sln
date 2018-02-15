@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.OldestFamilyMember", "03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.OpinionPoll", "04.OpinionPoll\04.OpinionPoll.csproj", "{936D77F7-2CDE-4855-90FA-4CC5A02A49B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DateModifier", "05.DateModifier\05.DateModifier.csproj", "{8DFAABB5-EB87-44C1-9807-D3E62FA5BA28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{936D77F7-2CDE-4855-90FA-4CC5A02A49B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{936D77F7-2CDE-4855-90FA-4CC5A02A49B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{936D77F7-2CDE-4855-90FA-4CC5A02A49B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFAABB5-EB87-44C1-9807-D3E62FA5BA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFAABB5-EB87-44C1-9807-D3E62FA5BA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFAABB5-EB87-44C1-9807-D3E62FA5BA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFAABB5-EB87-44C1-9807-D3E62FA5BA28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
