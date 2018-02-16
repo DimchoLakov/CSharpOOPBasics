@@ -1,6 +1,4 @@
-﻿using System.Threading;
-
-public class Rectangle
+﻿public class Rectangle
 {
     private string id;
 
