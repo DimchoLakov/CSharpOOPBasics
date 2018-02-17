@@ -25,7 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.CarSalesman", "10.CarSal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.PokemonTrainer", "11.PokemonTrainer\11.PokemonTrainer.csproj", "{4EE1DA43-FA50-4644-AB19-7B276EE6AEA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Google", "12.Google\12.Google.csproj", "{0B786E84-3F8E-49B7-810C-87F6653DCBA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Google", "12.Google\12.Google.csproj", "{0B786E84-3F8E-49B7-810C-87F6653DCBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.FamilyTree", "13.FamilyTree\13.FamilyTree.csproj", "{DD7203D5-0415-4FF2-B277-B8F3BDF8F62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CatLady", "14.CatLady\14.CatLady.csproj", "{2081F2DA-F19C-476C-A438-3F2766325EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.DrawingTool", "15.DrawingTool\15.DrawingTool.csproj", "{B01DBA56-8F33-4C08-8810-808CF16B13CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7203D5-0415-4FF2-B277-B8F3BDF8F62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7203D5-0415-4FF2-B277-B8F3BDF8F62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7203D5-0415-4FF2-B277-B8F3BDF8F62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7203D5-0415-4FF2-B277-B8F3BDF8F62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2081F2DA-F19C-476C-A438-3F2766325EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2081F2DA-F19C-476C-A438-3F2766325EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2081F2DA-F19C-476C-A438-3F2766325EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2081F2DA-F19C-476C-A438-3F2766325EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01DBA56-8F33-4C08-8810-808CF16B13CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01DBA56-8F33-4C08-8810-808CF16B13CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01DBA56-8F33-4C08-8810-808CF16B13CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01DBA56-8F33-4C08-8810-808CF16B13CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
