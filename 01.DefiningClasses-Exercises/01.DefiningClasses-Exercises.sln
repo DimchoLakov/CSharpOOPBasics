@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.RawData", "08.RawData\08
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.RectangleIntersection", "09.RectangleIntersection\09.RectangleIntersection.csproj", "{CABF42C9-C1A1-4E86-A729-139BF8B1A57A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CarSalesman", "10.CarSalesman\10.CarSalesman.csproj", "{5D67DE0E-68DA-4225-AC8F-389517750092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.CarSalesman", "10.CarSalesman\10.CarSalesman.csproj", "{5D67DE0E-68DA-4225-AC8F-389517750092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PokemonTrainer", "11.PokemonTrainer\11.PokemonTrainer.csproj", "{4EE1DA43-FA50-4644-AB19-7B276EE6AEA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.PokemonTrainer", "11.PokemonTrainer\11.PokemonTrainer.csproj", "{4EE1DA43-FA50-4644-AB19-7B276EE6AEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Google", "12.Google\12.Google.csproj", "{0B786E84-3F8E-49B7-810C-87F6653DCBA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4EE1DA43-FA50-4644-AB19-7B276EE6AEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EE1DA43-FA50-4644-AB19-7B276EE6AEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EE1DA43-FA50-4644-AB19-7B276EE6AEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B786E84-3F8E-49B7-810C-87F6653DCBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
