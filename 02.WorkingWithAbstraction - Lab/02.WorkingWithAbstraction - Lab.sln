@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RhombusOfStars", "01.RhombusOfStars\01.RhombusOfStars.csproj", "{F9C75D36-B511-4E93-A0B1-44F82ECCFD74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RhombusOfStars", "01.RhombusOfStars\01.RhombusOfStars.csproj", "{F9C75D36-B511-4E93-A0B1-44F82ECCFD74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PointInRectangle", "02.PointInRectangle\02.PointInRectangle.csproj", "{A99ED685-E087-435E-8467-F71B9098AAD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PointInRectangle", "02.PointInRectangle\02.PointInRectangle.csproj", "{A99ED685-E087-435E-8467-F71B9098AAD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StudentSystem", "03.StudentSystem\03.StudentSystem.csproj", "{1540EB46-802A-47ED-83AE-E80E15093BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.StudentSystem", "03.StudentSystem\03.StudentSystem.csproj", "{1540EB46-802A-47ED-83AE-E80E15093BB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HotelReservation", "04.HotelReservation\04.HotelReservation.csproj", "{51D2F654-8424-4C3F-85CE-7865E4A264BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D2F654-8424-4C3F-85CE-7865E4A264BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D2F654-8424-4C3F-85CE-7865E4A264BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D2F654-8424-4C3F-85CE-7865E4A264BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D2F654-8424-4C3F-85CE-7865E4A264BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
