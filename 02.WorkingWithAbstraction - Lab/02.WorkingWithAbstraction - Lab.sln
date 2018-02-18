@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RhombusOfStars", "01.Rho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PointInRectangle", "02.PointInRectangle\02.PointInRectangle.csproj", "{A99ED685-E087-435E-8467-F71B9098AAD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StudentSystem", "03.StudentSystem\03.StudentSystem.csproj", "{1540EB46-802A-47ED-83AE-E80E15093BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A99ED685-E087-435E-8467-F71B9098AAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A99ED685-E087-435E-8467-F71B9098AAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A99ED685-E087-435E-8467-F71B9098AAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1540EB46-802A-47ED-83AE-E80E15093BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
