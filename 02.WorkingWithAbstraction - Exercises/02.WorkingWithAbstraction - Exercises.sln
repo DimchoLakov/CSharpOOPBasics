@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RawData", "01.RawData\01.RawData.csproj", "{238D0621-0004-4E38-B586-38D79C1C3480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RawData", "01.RawData\01.RawData.csproj", "{238D0621-0004-4E38-B586-38D79C1C3480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CarSalesman", "02.CarSalesman\02.CarSalesman.csproj", "{7B802843-3695-4A74-83F6-449411CF54F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CarSalesman", "02.CarSalesman\02.CarSalesman.csproj", "{7B802843-3695-4A74-83F6-449411CF54F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.JediGalaxy", "03.JediGalaxy\03.JediGalaxy.csproj", "{6063B4B8-C723-4204-A8AE-FB43B63B10A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.JediGalaxy", "03.JediGalaxy\03.JediGalaxy.csproj", "{6063B4B8-C723-4204-A8AE-FB43B63B10A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Hospital", "04.Hospital\04.Hospital.csproj", "{40D4B42C-E0A7-4535-836D-201C6D67043A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Hospital", "04.Hospital\04.Hospital.csproj", "{40D4B42C-E0A7-4535-836D-201C6D67043A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GreedyTimes", "05.GreedyTimes\05.GreedyTimes.csproj", "{28BFF8F9-A2C4-4F47-A8EE-2152DDEF1D53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.GreedyTimes", "05.GreedyTimes\05.GreedyTimes.csproj", "{28BFF8F9-A2C4-4F47-A8EE-2152DDEF1D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Sneaking", "06.Sneaking\06.Sneaking.csproj", "{CA254D8D-8265-4B0B-A3B3-C3CC4102F649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{28BFF8F9-A2C4-4F47-A8EE-2152DDEF1D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28BFF8F9-A2C4-4F47-A8EE-2152DDEF1D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28BFF8F9-A2C4-4F47-A8EE-2152DDEF1D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA254D8D-8265-4B0B-A3B3-C3CC4102F649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA254D8D-8265-4B0B-A3B3-C3CC4102F649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA254D8D-8265-4B0B-A3B3-C3CC4102F649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA254D8D-8265-4B0B-A3B3-C3CC4102F649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
