@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ClassBox", "01.ClassBox\01.ClassBox.csproj", "{4CDD63BC-822C-485B-8619-0C55F99D555E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ClassBox", "01.ClassBox\01.ClassBox.csproj", "{4CDD63BC-822C-485B-8619-0C55F99D555E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ClassBoxDataValidation", "02.ClassBoxDataValidation\02.ClassBoxDataValidation.csproj", "{2D091E7F-CA2B-4298-8FE7-B6EBD6F4A480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4CDD63BC-822C-485B-8619-0C55F99D555E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CDD63BC-822C-485B-8619-0C55F99D555E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CDD63BC-822C-485B-8619-0C55F99D555E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D091E7F-CA2B-4298-8FE7-B6EBD6F4A480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D091E7F-CA2B-4298-8FE7-B6EBD6F4A480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D091E7F-CA2B-4298-8FE7-B6EBD6F4A480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D091E7F-CA2B-4298-8FE7-B6EBD6F4A480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
