@@ -10,7 +10,7 @@ public class Kitten : Cat
     {
     }
 
-    public new void ProduceSound()
+    public override void ProduceSound()
     {
         Console.WriteLine("Meow");
     }

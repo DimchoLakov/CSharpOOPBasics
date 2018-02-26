@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-public class Animal : ISoundProducable
+public abstract class Animal : ISoundProducable
 {
     private string name;
     private int age;
@@ -62,9 +62,7 @@ public class Animal : ISoundProducable
         this.Gender = gender;
     }
 
-    public void ProduceSound()
-    {
-    }
+    public abstract void ProduceSound();
 
     public override string ToString()
     {

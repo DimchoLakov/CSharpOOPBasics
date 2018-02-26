@@ -29,33 +29,7 @@ public class StartUp
         foreach (var animal in animals)
         {
             Console.WriteLine(animal);
-            Type type = Type.GetType(animal.GetType().ToString());
-
-            if (type == typeof(Cat))
-            {
-                var cat = (Cat) animal;
-                cat.ProduceSound();
-            }
-            else if (type == typeof(Dog))
-            {
-                var dog = (Dog)animal;
-                dog.ProduceSound();
-            }
-            else if (type == typeof(Frog))
-            {
-                var frog = (Frog)animal;
-                frog.ProduceSound();
-            }
-            else if (type == typeof(Kitten))
-            {
-                var kitten = (Kitten)animal;
-                kitten.ProduceSound();
-            }
-            else if (type == typeof(Tomcat))
-            {
-                var tomcat = (Tomcat)animal;
-                tomcat.ProduceSound();
-            }
+            animal.ProduceSound();
         }
     }
 

@@ -6,7 +6,7 @@ public class Dog : Animal
     {
     }
 
-    public new void ProduceSound()
+    public override void ProduceSound()
     {
         Console.WriteLine("Woof!");
     }

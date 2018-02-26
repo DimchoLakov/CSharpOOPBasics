@@ -11,7 +11,7 @@ public class Tomcat : Cat
     {
     }
 
-    public new void ProduceSound()
+    public override void ProduceSound()
     {
         Console.WriteLine("MEOW");
     }

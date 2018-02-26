@@ -13,7 +13,7 @@ public class Cat : Animal
     {
     }
 
-    public new void ProduceSound()
+    public override void ProduceSound()
     {
         Console.WriteLine("Meow meow");
     }
