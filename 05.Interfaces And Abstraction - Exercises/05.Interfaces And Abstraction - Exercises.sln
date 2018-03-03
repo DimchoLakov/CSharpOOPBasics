@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MilitaryElite", "08.Mili
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CollectionHierarchy", "09.CollectionHierarchy\09.CollectionHierarchy.csproj", "{222FE71C-55E3-4BBF-88C6-2C4B96AE8081}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ExplicitInterfaces", "10.ExplicitInterfaces\10.ExplicitInterfaces.csproj", "{1DD35A8D-BC06-4055-8BA5-443F1A404480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{222FE71C-55E3-4BBF-88C6-2C4B96AE8081}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{222FE71C-55E3-4BBF-88C6-2C4B96AE8081}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{222FE71C-55E3-4BBF-88C6-2C4B96AE8081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD35A8D-BC06-4055-8BA5-443F1A404480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD35A8D-BC06-4055-8BA5-443F1A404480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD35A8D-BC06-4055-8BA5-443F1A404480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD35A8D-BC06-4055-8BA5-443F1A404480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
