@@ -13,7 +13,6 @@ namespace BashSoft.Repository
     public class StudentsRepository
     {
         private bool isDataInitialized = false;
-        private Dictionary<string, Dictionary<string, List<int>>> studentsByCourse;
         private RepositoryFilter filter;
         private RepositorySorter sorter;
         private Dictionary<string, Course> courses;
@@ -23,7 +22,6 @@ namespace BashSoft.Repository
         {
             this.filter = repoFilter;
             this.sorter = repoSorter;
-            this.studentsByCourse = new Dictionary<string, Dictionary<string, List<int>>>();
         }
 
         public void LoadData(string fileName)
@@ -51,7 +49,6 @@ namespace BashSoft.Repository
 
             this.students = null;
             this.courses = null;
-            this.studentsByCourse = new Dictionary<string, Dictionary<string, List<int>>>();
             this.isDataInitialized = false;
         }
 
