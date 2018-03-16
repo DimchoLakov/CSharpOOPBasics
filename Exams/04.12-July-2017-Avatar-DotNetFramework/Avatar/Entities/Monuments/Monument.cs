@@ -9,7 +9,7 @@ public abstract class Monument
 
     public string Name { get; protected set; }
 
-    public virtual int Affinity { get; protected set; }
+    public abstract int Affinity { get; set; }
 
     public override string ToString()
     {

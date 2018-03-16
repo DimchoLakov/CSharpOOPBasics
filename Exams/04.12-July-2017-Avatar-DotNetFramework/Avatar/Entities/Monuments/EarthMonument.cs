@@ -1,14 +1,14 @@
 ﻿public class EarthMonument : Monument
 {
-    public EarthMonument(string name, int earthAffinity) : base(name)
+    public EarthMonument(string name, int affinity) : base(name)
     {
-        this.EarthAffinity = earthAffinity;
+        this.Affinity = affinity;
     }
 
-    public int EarthAffinity { get; set; }
+    public override int Affinity { get; set; }
 
     public override string ToString()
     {
-        return base.ToString() + this.EarthAffinity;
+        return base.ToString() + this.Affinity;
     }
 }

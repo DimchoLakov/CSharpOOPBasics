@@ -1,14 +1,14 @@
 ﻿public class AirMonument : Monument
 {
-    public AirMonument(string name, int airAffinity) : base(name)
+    public AirMonument(string name, int affinity) : base(name)
     {
-        this.AirAffinity = airAffinity;
+        this.Affinity = affinity;
     }
 
-    public int AirAffinity { get; set; }
+    public override int Affinity { get; set; }
 
     public override string ToString()
     {
-        return base.ToString() + this.AirAffinity;
+        return base.ToString() + this.Affinity;
     }
 }

@@ -1,14 +1,14 @@
 ﻿public class WaterMonument : Monument
 {
-    public WaterMonument(string name, int waterAffinity) : base(name)
+    public WaterMonument(string name, int affinity) : base(name)
     {
-        this.WaterAffinity = waterAffinity;
+        this.Affinity = affinity;
     }
 
-    public int WaterAffinity { get; set; }
+    public override int Affinity { get; set; }
 
     public override string ToString()
     {
-        return base.ToString() + this.WaterAffinity;
+        return base.ToString() + this.Affinity;
     }
 }

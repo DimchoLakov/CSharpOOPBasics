@@ -1,14 +1,14 @@
 ﻿public class FireMonument : Monument
 {
-    public FireMonument(string name, int fireAffinity) : base(name)
+    public FireMonument(string name, int affinity) : base(name)
     {
-        this.FireAffinity = fireAffinity;
+        this.Affinity = affinity;
     }
 
-    public int FireAffinity { get; set; }
+    public override int Affinity { get; set; }
 
     public override string ToString()
     {
-        return base.ToString() + this.FireAffinity;
+        return base.ToString() + this.Affinity;
     }
 }
